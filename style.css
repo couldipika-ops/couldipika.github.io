@@ -1,0 +1,30 @@
+body {
+    background: black;
+    color: white;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 22px;
+}
+
+img {
+    width: 500px;
+    max-width: 90%;
+    border-radius: 20px;
+}
+
+button {
+    display: block;
+    margin: 25px auto;
+    padding: 15px 30px;
+    font-size: 20px;
+    border-radius: 12px;
+    cursor: pointer;
+}
